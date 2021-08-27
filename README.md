@@ -1,2 +1,2 @@
-# terrform-learn
+# terrfaorm-learn
 Learn terraform by examples
